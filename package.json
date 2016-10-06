@@ -1,0 +1,37 @@
+{
+  "name": "frontend-starter",
+  "version": "1.0.0",
+  "description": "A simple and fast front-end starter project.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuanAragao/frontend-starter.git"
+  },
+  "keywords": [
+    "frontend",
+    "html",
+    "css",
+    "gulp",
+    "npm",
+    "starter",
+    "simple",
+    "web"
+  ],
+  "author": "Ruan Aragão",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RuanAragao/frontend-starter/issues"
+  },
+  "homepage": "https://github.com/RuanAragao/frontend-starter#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "normalize.css": "^5.0.0"
+  }
+}
