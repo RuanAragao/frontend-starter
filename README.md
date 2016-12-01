@@ -6,18 +6,20 @@
 3. code code code
 
 ## Content
-
-| -- gulpfile.js
-| -- index.html
-| -- package.json
-| -- dist
-| ---- css
-| ---- img
-| ---- js
-| -- images
-| -- scripts
-| ---- main.js
-| -- scss
-| ---- main.scss
-| ---- modules
-| -- tasks
+```
+.
+├── gulpfile.js
+├── index.html
+├── package.json
+|   └── dist
+|       ├── css
+|       ├── img
+|       └── js
+├── images
+├── scripts
+├── main.js
+├── scss
+|   ├── main.scss
+|   └── modules
+└── tasks
+```
